@@ -1,0 +1,98 @@
+.banner{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+.skip{
+    color: coral;
+}
+
+
+.first-pic{
+    width: 250px;
+    height:300px;
+}
+
+.btn{
+  background-color: rgb(70, 70, 129);
+  border-radius: 15px;
+ 
+  height: 40px;
+  
+}
+.second-pic{
+    width: 250px;
+    height:300px;
+}
+.banner-1{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+   flex-direction: row-reverse; 
+}
+.text{
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
+.box{
+    
+    border-radius: 30px;
+    
+    height: 290px;
+    width: 230px;
+    box-shadow: 4px 4px 15px grey;
+}
+.icon{
+    border-radius:15px ;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 210px;
+    height: 140px;
+    
+}
+
+.title{
+    margin-left: 10px;
+}
+.food{
+    margin-left: 10px;
+}
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.follower{
+    height: 80px;
+    width: 1060px;
+    line-height: 5px;
+    margin-left: 120px;
+    justify-content: space-around;
+    display: flex;
+    box-shadow: 4px 4px 15px 4px grey;
+    
+}
+
+.foot{
+    height: 130px;
+    background-color: black;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.eat{
+    color: azure;
+}
+.f{
+    color: coral;
+}
+.N{
+    color: darkgrey;
+}
+   
